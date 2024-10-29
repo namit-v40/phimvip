@@ -1,0 +1,195 @@
+{
+    "home_navbar": {
+        "search": "Search movie",
+        "type": {
+            "series": {
+                "title":"Series",
+                "value": "series"
+            },
+            "single": {
+                "title":"Single",
+                "value": "single"
+            },
+            "hoathinh": {
+                "title":"Cartoon",
+                "value": "cartoon"
+            },
+            "tvshow": {
+                "title":"TV Shows",
+                "value": "tvshows"
+            }
+        },
+        "category": "Category",
+        "country": "Country",
+        "year": "Year",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout"
+    },
+    "admin_navbar": {
+        "movie": "List Movie",
+        "create": "Create Movie"
+    },
+    "theme": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "Locale_switcher": {
+        "vi": "VI",
+        "en": "EN",
+        "label": "Languages"
+    },
+    "header_table": {
+        "name": "Name",
+        "year": "Year",
+        "status": "Status",
+        "type": "Type",
+        "country": "Country",
+        "date": "Update Date"
+    },
+    "detail_movie": {
+        "button": "Watch Movie",
+        "status": "Status",
+        "ep":"Number of Episodes",
+        "time":"Duration",
+        "year":"Year of Release",
+        "quality":"Quality",
+        "language":"Language",
+        "director": "Director",
+        "actor": "Actor",
+        "type": "Genre",
+        "country":"Country"
+    },
+    "footer": {
+        "about_us": "About Us",
+        "license": "License",
+        "contribute": "Contribute",
+        "contact_us": "Contact Us"
+    },
+    "notfound_movie":"There are no movies to display",
+    "pagination": {
+        "result": "result",
+        "page": "Page",
+        "total": "Total",
+        "previous": "Previous",
+        "next": "Next"
+    },
+    "breadcrumb": {
+        "home": "Home",
+        "type": "Type",
+        "year": "Year",
+        "category": "Category",
+        "country": "Country"
+    },
+    "accordion": {
+        "content":"Movie Content",
+        "list_ep":"List Episodes"
+    },
+    "description": {
+        "value": "Movie data is free forever. Always updated quickly, high quality and stable for a long time. Extremely fast playback speed thanks to high bandwidth transmission, ensuring to serve a large number of online movie viewers. At the same time, helping movie website developers reduce costs for storage and streaming services."
+    },
+    "login": {
+        "title": "LOGIN",
+        "user_name": "User Name",
+        "password": "Password",
+        "button": "Login",
+        "reference": {
+            "or": "Don't have an account?",
+            "href": "Register"
+        },
+        "error_message": {
+            "title": "Login Error",
+            "user_name": "Username must be at least 2 characters",
+            "password": "Password must be at least 2 characters"
+        }
+    },
+    "register": {
+        "title": "REGISTER",
+        "name": "Full Name",
+        "user_name": "User Name",
+        "password": "Password",
+        "confirm_password": "Confirm password",
+        "button": "Register",
+        "reference": {
+            "or": "You already have an account",
+            "href": "Login"
+        },
+        "error_message": {
+            "title": "Register Error",
+            "name": "FullName must be at least 2 characters",
+            "user_name": "Username must be at least 2 characters",
+            "password": "Password must be at least 2 characters",
+            "password_not_match": "Passwords do not match"
+        }
+    },
+    "logout": {
+        "title": "Logout",
+        "error_message": {
+            "title": "Logout Error"
+        }
+    },
+    "not_found_error": {
+        "title": "Page Not Found",
+        "message": "Sorry! This page is not available.",
+        "go_back": "Back to home"
+    },
+    "filter": {
+        "actor": "Actor",
+        "director": "Director",
+        "category": "Category",
+        "country": "Country",
+        "year": "Year",
+        "type": "Type",
+        "language": "Language",
+        "quality": "Quality",
+        "filter": "Filter",
+        "clear": "Clear"
+    },
+    "select_data": {
+        "vietsub": {
+            "value": "vietsub",
+            "label": "Vietsub"
+        },
+        "voice_over": {
+            "value": "Lồng tiếng",
+            "label": "Voice Over"
+        },
+        "special": {
+            "value": "Thuyết minh",
+            "label": "Special"
+        }
+    },
+    "admin_button": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "save": "Save",
+        "back": "Back"
+    },
+    "create_movie": {
+        "auto_fetch": {
+            "title": "Auto fetch data",
+            "button": "Fetch data"
+        },
+        "category": {
+            "title": "Category",
+            "placeholder": "Select category"
+        },
+        "country": {
+            "title": "Country",
+            "placeholder": "Select country"
+        },
+        "year": {
+            "title": "Year",
+            "placeholder": "select year"
+        },
+        "actor": {
+            "title": "Actor",
+            "placeholder": "select actor"
+        },
+        "director": {
+            "title": "Director",
+            "placeholder": "select director"
+        }
+    }
+}

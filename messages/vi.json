@@ -1,0 +1,195 @@
+{   
+    "home_navbar": {
+        "search": "Tìm kiếm phim",
+        "type": {
+            "series": {
+                "title":"Phim bộ",
+                "value": "phim-bo"
+            },
+            "single": {
+                "title":"Phim lẻ",
+                "value": "phim-le"
+            },
+            "hoathinh": {
+                "title":"Hoạt hình",
+                "value": "hoat-hinh"
+            },
+            "tvshow": {
+                "title":"TV Shows",
+                "value": "tv-shows"
+            }
+        },
+        "category": "Danh mục",
+        "country": "Quốc gia",
+        "year": "Năm",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "logout": "Đăng xuất"
+    },
+    "admin_navbar": {
+        "movie": "Danh sách phim",
+        "create": "Tạo mới phim"
+    },
+    "theme": {
+        "light": "Sáng",
+        "dark": "Tối",
+        "system": "Hệ thống"
+    },
+    "Locale_switcher": {
+        "vi": "VI",
+        "en": "EN",
+        "label": "Ngôn ngữ"
+    },
+    "header_table": {
+        "name": "Tên",
+        "year": "Năm",
+        "status": "Tình trạng",
+        "type": "Thể loại",
+        "country": "Quốc gia",
+        "date": "Ngày cập nhật"
+    },
+    "detail_movie": {
+        "button": "Xem phim",
+        "status": "Tình trạng",
+        "ep":"Số tập",
+        "time":"Thời lượng",
+        "year":"Năm phát hành",
+        "quality":"Chất lượng",
+        "language":"Ngôn ngữ",
+        "director": "Đạo diễn",
+        "actor": "Diễn viên",
+        "type": "Thể loại",
+        "country":"Quốc gia"
+    },
+    "footer": {
+        "about_us": "Giới thiệu",
+        "license": "Giấy phép",
+        "contribute": "Đóng góp",
+        "contact_us": "Liên hệ"
+    },
+    "notfound_movie": "Không có phim nào để hiển thị",
+    "pagination": {
+        "result": "kết quả",
+        "page": "Trang",
+        "total": "Tổng",
+        "previous": "Trước",
+        "next": "Sau"
+    },
+    "breadcrumb": {
+        "home": "Trang chủ",
+        "type": "Thể loại",
+        "year": "Năm",
+        "category": "Danh mục",
+        "country": "Quốc gia"
+    },
+    "accordion": {
+        "content":"Nội dung phim",
+        "list_ep":"Danh sách tập"
+    },
+    "description": {
+        "value": "Dữ liệu phim miễn phí mãi mãi. Luôn được cập nhật nhanh chóng, chất lượng cao và ổn định trong thời gian dài. Tốc độ phát cực nhanh nhờ đường truyền băng thông cao, đảm bảo phục vụ lượng lớn người xem phim trực tuyến. Đồng thời, giúp nhà phát triển website phim giảm thiểu chi phí cho các dịch vụ lưu trữ và stream."
+    },
+    "login": {
+        "title": "ĐĂNG NHẬP",
+        "user_name": "Tên đăng nhập",
+        "password": "mật khẩu",
+        "button": "Đăng nhập",
+        "reference": {
+            "or": "bạn chưa có tài khoản?",
+            "href": "Đăng ký"
+        },
+        "error_message": {
+            "title": "Lỗi đăng nhập",
+            "user_name": "Tên đăng nhập phải có ít nhất 2 ký tự",
+            "password": "Mật khẩu phải có ít nhất 2 ký tự"
+        }
+    },
+    "register": {
+        "title": "ĐĂNG KÝ",
+        "name": "Họ và tên",
+        "user_name": "Tên đăng nhập",
+        "password": "Mật khẩu",
+        "confirm_password": "Nhập lại mật khẩu",
+        "button": "Đăng ký",
+        "reference": {
+            "or": "bạn đã có tài khoản",
+            "href": "Đăng nhập"
+        },
+        "error_message": {
+            "title": "Lỗi Đăng ký",
+            "name": "Họ và tên phải có ít nhất 2 ký tự",
+            "user_name": "Tên đăng nhập phải có ít nhất 2 ký tự",
+            "password": "Mật khẩu phải có ít nhất 6 ký tự",
+            "password_not_match": "Mật khẩu không khớp"
+        }
+    },
+    "logout": {
+        "title": "Đăng xuất",
+        "error_message": {
+            "title": "Lỗi đăng xuất"
+        }
+    },
+    "not_found_error": {
+        "title": "Không tìm thấy trang",
+        "message": "Trang này không có sẵn. Vui lòng thử lại.",
+        "go_back": "Về trang chủ"
+    },
+    "filter": {
+        "actor": "Diễn viên",
+        "director": "Đạo diễn",
+        "category": "Danh mục",
+        "country": "Quốc gia",
+        "year": "Năm",
+        "type": "Thể loại",
+        "language": "Ngôn ngữ",
+        "quality": "Chất lượng",
+        "filter": "Lọc",
+        "clear": "Bỏ lọc"
+    },
+    "select_data": {
+        "vietsub": {
+            "value": "vietsub",
+            "label": "Vietsub"
+        },
+        "voice_over": {
+            "value": "Lồng tiếng",
+            "label": "Lồng tiếng"
+        },
+        "special": {
+            "value": "Thuyết minh",
+            "label": "Thuyết minh"
+        }
+    },
+    "admin_button": {
+        "edit": "Sửa",
+        "delete": "Xóa",
+        "save": "Lưu",
+        "back": "Quay lại"
+    },
+    "create_movie": {
+        "auto_fetch": {
+            "title": "Tự động lấy dữ liệu",
+            "button": "Lấy dữ liệu"
+        },
+        "category": {
+            "title": "Danh mục",
+            "placeholder": "Chọn danh mục"
+        },
+        "country": {
+            "title": "Quốc gia",
+            "placeholder": "Chọn danh mục"
+        },
+        "year": {
+            "title": "Năm",
+            "placeholder": "Chọn năm"
+        },
+        "actor": {
+            "title": "Diễn viên",
+            "placeholder": "Chọn diễn viên"
+        },
+        "director": {
+            "title": "Đạo diễn",
+            "placeholder": "Chọn đạo diễn"
+        }
+    }
+}
